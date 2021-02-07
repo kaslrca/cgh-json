@@ -1,0 +1,41 @@
+{
+  "patient": {
+    "dataCnt": "1",
+    "responseJSON": [
+      {
+        "ChartId": "S119829813",
+        "Tel1": "(02)27082121",
+        "Sex": "F",
+        "Birthday": "19610101",
+        "ChartNo": "0016521013",
+        "ChartName": "測試二請忽略",
+        "Address": "臺北市大安區仁愛路4段280號"
+      }
+    ],
+    "message": "",
+    "result": "Y"
+  },
+  "schedule": {
+    "dataCnt": "1",
+    "responseJSON": [
+      {
+        "Divisionno": "001",
+        "Reglimit": "100",
+        "SeeDate": "20210131",
+        "TimeDivisionno": "2",
+        "Reservelimit": "100",
+        "Precount": "0",
+        "Aveseeduration": "0",
+        "Roomstate": "0",
+        "DrNo": "07551",
+        "CostNo": "AZ300",
+        "Regcount": "0",
+        "Week": "7",
+        "RoomNo": "AB1",
+        "StartseeTime": "1400"
+      }
+    ],
+    "message": "",
+    "result": "Y"
+  }
+}
