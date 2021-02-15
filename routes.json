@@ -1,5 +1,5 @@
 {
-  "/cgh/servlet/extSysWebServ\\?SystemName=REG&ServName=GetDrdayWork&DivisionNo=001&SeedateS=:SeedateS&SeedateE=:SeedateE&DrNo=:DrNo": "/schedule",
+  "/cgh/servlet/extSysWebServ\\?SystemName=REG&ServName=GetDrdayWork&DivisionNo=001&SeedateS=:SeedateS&SeedateE=:SeedateE": "/schedule",
   "/cgh/servlet/extSysWebServ\\?SystemName=REG&ServName=GetPatient&DivisionNo=001&ChartNo=:ChartNo&ChartId=:ChartId": "/patient",
   "/cgh/servlet/extSysWebServ\\?SystemName=REG&ServName=GetDrKInfo&DivisionNo=001": "/doctor",
   "/cgh/servlet/extSysWebServ\\?SystemName=RT&ServName=GetUserInfo&DivisionNo=001&UserID=:UserID&UserPasw=:UserPasw": "/user",
