@@ -16,7 +16,7 @@
         "Sex": "F",
         "Birthday": "19610101",
         "ChartNo": "0016521011",
-        "ChartName": "測試1-1-1-1",
+        "ChartName": "測試",
         "Address": "臺北市大安區仁愛路4段111號"
       },
       {
@@ -25,7 +25,7 @@
         "Sex": "M",
         "Birthday": "19610101",
         "ChartNo": "0016521012",
-        "ChartName": "測試2",
+        "ChartName": "測試",
         "Address": "臺北市大安區仁愛路4段222號"
       },
       {
@@ -10036,7 +10036,7 @@
     "responseJSON": [
       {
         "DrNo": "01967",
-        "DrName": "王宏榮999"
+        "DrName": "王宏榮"
       },
       {
         "DrNo": "83951",
