@@ -1,9 +1,9 @@
 {
   "user": {
-    "responseJSON": {
+    "responseJSON": [{
       "USER_NAME": "shihfeng",
       "USER_ROLE": "醫師"
-    },
+    }],
     "message": "",
     "result": "Y"
   },
